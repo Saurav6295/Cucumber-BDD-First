@@ -47,8 +47,8 @@ WebDriver driver;
 	{
 		
 		
-	driver.findElement(By.xpath("//input[@class='_2IX_2- VJZDxU']")).sendKeys("9894506053");
-	driver.findElement(By.xpath("//input[@class='_2IX_2- _3mctLh VJZDxU']")).sendKeys("Msft@2020");
+	driver.findElement(By.xpath("//input[@class='_2IX_2- VJZDxU']")).sendKeys("*********");
+	driver.findElement(By.xpath("//input[@class='_2IX_2- _3mctLh VJZDxU']")).sendKeys("********");
 	}
 	@Then("^user clicks on login button$")
 	public void User_Clicks_on_Login_button()
